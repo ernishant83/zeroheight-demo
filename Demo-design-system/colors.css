@@ -1,0 +1,18 @@
+
+:root {
+    --colorColorBlack: #000000;    
+    --colorColorBlack8: #000000cc;    
+    --colorFgDefault: #000000;    
+    --colorFgMuted: #4a5568;    
+    --colorFgSubtle: #a0aec0;    
+    --colorBgDefault: #ffffff;    
+    --colorBgMuted: #f7fafc;    
+    --colorBgSubtle: #edf2f7;    
+    --colorAccentDefault: #7f9cf5;    
+    --colorAccentOnaccent: #ffffff;    
+    --colorAccentBg: #c3dafe;    
+    --colorShadowsDefault: #1a202c;    
+    --colorButtonPrimaryBackground: var(--colorAccentDefault);    
+    --colorButtonPrimaryText: var(--colorAccentOnaccent);    
+    --colorCardBackground: var(--colorBgDefault);    
+}

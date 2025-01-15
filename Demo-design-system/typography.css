@@ -1,0 +1,657 @@
+            
+            
+            .typographyHeadingHeading1 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 60px;
+              line-height: 72px;
+              letter-spacing: -3px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyHeadingHeading2 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 48px;
+              line-height: 60px;
+              letter-spacing: -1.92px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyHeadingHeading3 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 40px;
+              line-height: 54px;
+              letter-spacing: -1.6px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyHeadingHeading4 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 30px;
+              line-height: 38px;
+              letter-spacing: -1.2px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyHeadingHeading5 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 24px;
+              line-height: 32px;
+              letter-spacing: -0.96px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyHeadlineRegular 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 20px;
+              line-height: 30px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyHeadlineMedium 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 500;
+              font-size: 20px;
+              line-height: 30px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyHeadlineSemibold 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 20px;
+              line-height: 30px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyBodyLargeRegular 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 18px;
+              line-height: 28px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyBodyLargeMedium 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 500;
+              font-size: 18px;
+              line-height: 28px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyBodyLargeSemibold 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 18px;
+              line-height: 28px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyBodyRegular 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 16px;
+              line-height: 24px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyBodyMedium 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 500;
+              font-size: 16px;
+              line-height: 24px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyBodySemibold 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 16px;
+              line-height: 24px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyFootnoteLight 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 14px;
+              line-height: 20px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyFootnoteRegular 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 14px;
+              line-height: 20px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyFootnoteMedium 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 500;
+              font-size: 14px;
+              line-height: 20px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyFootnoteSemibold 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 14px;
+              line-height: 20px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyCaptionLight 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 13px;
+              line-height: 20px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyCaptionRegular 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 13px;
+              line-height: 20px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyCaptionMedium 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 500;
+              font-size: 13px;
+              line-height: 20px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyCaptionSemibold 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 13px;
+              line-height: 20px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographySmallRegular 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 12px;
+              line-height: 18px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographySmallMedium 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 500;
+              font-size: 12px;
+              line-height: 18px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographySmallSemibold 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 12px;
+              line-height: 18px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyNumericLg 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 34px;
+              line-height: 34px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyNumericXl 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 40px;
+              line-height: 40px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyNumericMd 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 28px;
+              line-height: 34px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyMobileHeadingHeading1 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 40px;
+              letter-spacing: -1.6px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyMobileHeadingHeading2 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 30px;
+              letter-spacing: -1.2px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyMobileHeadingHeading3 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 28px;
+              letter-spacing: -1.12px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyMobileHeadingHeading4 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 24px;
+              letter-spacing: -0.96px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyMobileHeadlineSemibold 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 20px;
+              line-height: 24px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyMobileHeadlineRegular 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 20px;
+              line-height: 24px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyMobileBodyLargeSemibold 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 16px;
+              line-height: 20px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyMobileBodyLargeMedium 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 500;
+              font-size: 16px;
+              line-height: 20px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyMobileBodyLargeRegular 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 16px;
+              line-height: 20px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyMobileBodySemibold 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 14px;
+              line-height: 18px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyMobileBodyMedium 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 14px;
+              line-height: 18px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyMobileBodyRegular 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 14px;
+              line-height: 18px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyMobileFootnote 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 12px;
+              line-height: 16px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyMobileHeadlineMedium 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 500;
+              font-size: 20px;
+              line-height: 24px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyMobileNumericXxl 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 60px;
+              line-height: 60px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyMobileNumericXl 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 32px;
+              line-height: 40px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyMobileNumericLg 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 26px;
+              line-height: 34px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyMobileNumericMd 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 20px;
+              line-height: 34px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyHeadlineBold 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 700;
+              font-size: 20px;
+              line-height: 30px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyBodyLargeBold 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 700;
+              font-size: 18px;
+              line-height: 28px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyBodyBold 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 700;
+              font-size: 16px;
+              line-height: 24px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyFootnoteBold 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 700;
+              font-size: 14px;
+              line-height: 20px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographySmallBold 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 700;
+              font-size: 12px;
+              line-height: 18px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyCaptionBold 
+            {
+              font-family: "Source Sans 3";
+              font-style: normal;
+              font-weight: 700;
+              font-size: 13px;
+              line-height: 20px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyBrandHeading1 
+            {
+              font-family: "Blinker";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 60px;
+              line-height: 72px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyBrandHeading2 
+            {
+              font-family: "Blinker";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 48px;
+              line-height: 60px;
+              letter-spacing: 0px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyBrandHeading3 
+            {
+              font-family: "Blinker";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 40px;
+              line-height: 54px;
+              letter-spacing: -0.4px;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }
